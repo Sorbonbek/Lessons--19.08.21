@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ДЗ  19.08.21/1.0.0": {
+        "runtime": {
+          "ДЗ  19.08.21.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ДЗ  19.08.21/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
